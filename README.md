@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thainguyen101b
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java Multiple Threads
+- 👋 Hi, I’m Nguyễn Thái Nguyên
+- 👀 I’m interested in Domain Driven Design & Clean Architecture
+- 🌱 I’m learning that peace isn’t something to find — it’s something to choose.
 - 📫 How to reach me: thainguyen101b@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Phin coffee is my wife
